@@ -1,7 +1,7 @@
 version: 0.2
 
-run-as: Linux-user-name
 phases:
   install:
     commands:
-      - sleep 300    
+      - echo Entered the install phase...
+      - sleep 300
