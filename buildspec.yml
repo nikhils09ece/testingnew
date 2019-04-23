@@ -8,7 +8,7 @@ env:
     key: "value"
   parameter-store:
     key: "value"
-    key: "value"
+    key: "valusd"
             
 phases:
   install:
