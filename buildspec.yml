@@ -5,4 +5,4 @@ phases:
   install:
     commands:
       - echo Entered the install phase...
-      - sleep 500
+      - sleep 300
